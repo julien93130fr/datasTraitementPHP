@@ -1,0 +1,15 @@
+{
+    "name": "julien93130fr/data-traitement",
+    "autoload": {
+        "psr-4": {
+            "Phpdatas\\": "Phpdatas"
+        }
+    },
+    "authors": [
+        {
+            "name": "julien93130fr",
+            "email": "120179983+julien93130fr@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
